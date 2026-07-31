@@ -1,14 +1,14 @@
 {
   "name": "HomeWatch",
   "about": "7 Segment watch",
-  "version": "1.5",
+  "version": "1.6",
   "notes": "",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/H1r-0/HomeWatch/main/bin/firmware1.bin",
+          "path": "https://raw.githubusercontent.com/H1r-0/HomeWatch/main/bin/firmware.bin",
           "offset": 0
         }
       ]
